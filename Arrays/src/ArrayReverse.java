@@ -11,5 +11,6 @@ public class ArrayReverse {
         System.out.println(arrayList);
         Collections.reverse(arrayList);
         System.out.println(arrayList);
+        System.out.println(arrayList.get(-3));
     }
 }
