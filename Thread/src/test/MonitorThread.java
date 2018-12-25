@@ -1,3 +1,5 @@
+package test;
+
 public class MonitorThread extends Thread {
 
     boolean waiting = true;
