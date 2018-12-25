@@ -1,7 +1,6 @@
 package 礼让线程.test1;
 
-import javax.sound.midi.Soundbank;
-import java.util.Map;
+
 
 class MyThread extends Thread {
     @Override
