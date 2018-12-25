@@ -50,7 +50,7 @@ public class Run {
         a.setName("A");
         ThreadB b = new ThreadB(myObject);
         b.setName("B");
-        a.start();    
+        a.start();
         b.start();
     }
 }
